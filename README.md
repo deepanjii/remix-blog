@@ -1,3 +1,7 @@
+# Demo
+
+![remix-blog](https://user-images.githubusercontent.com/11153724/170677431-fa36663c-09b6-4a4d-bb8e-7315174bfcbf.gif)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
